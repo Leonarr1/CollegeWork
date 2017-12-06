@@ -1,0 +1,5 @@
+4
+Climber,324,12,John,true,Mary 
+ProClimb,65,24,Michael,false,null 
+SafeGear,34,7,John,true,Rob 
+Climber,476,0,Michael,false,null 
