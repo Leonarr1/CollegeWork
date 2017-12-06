@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+U:\CS1021Projects\Lab-0-1-Demo\Demo.uvproj
+Project File Date:  09/30/2016
+
+<h2>Output:</h2>
+Rebuild target 'Simulator'
+assembling Demo.s...
+linking...
+Program Size: Code=764 RO-data=32 RW-data=4 ZI-data=4364  
+".\Demo.axf" - 0 Errors, 0 Warning(s).
